@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @IndhahPujihastuti
-- 👀 I’m interested in software developer
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on startup company's
 - 📫 How to reach me ? email : indhahpujihastuti4@gmail.com || phone : 085326908226
 
 <!---
